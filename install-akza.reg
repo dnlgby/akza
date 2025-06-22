@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\WEF\TrustedCatalogs\AkzaCatalog]
+"CatalogUrl"="https://dnlgby.github.io/akza/akza-addin/manifest.xml"
+"CatalogType"=dword:00000001
+"Enabled"=dword:00000001
+"SourceLocation"="https://dnlgby.github.io/akza/akza-addin/manifest.xml"
