@@ -18,7 +18,7 @@
   </AppDomains>
 
   <Hosts>
-    <Host Name="Document" />
+    <Host Name="Word" />
   </Hosts>
 
   <DefaultSettings>
@@ -29,7 +29,7 @@
 
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
     <Hosts>
-      <Host xsi:type="Document">
+      <Host xsi:type="Word">
         <DesktopFormFactor>
           <GetStarted>
             <Title resid="GetStarted.Title"/>
