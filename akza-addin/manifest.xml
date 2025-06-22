@@ -14,7 +14,7 @@
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
 
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://dnlgby.github.io</AppDomain>
   </AppDomains>
 
   <Hosts>
